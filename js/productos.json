@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "nombre": "Vela Aromatica - MOR",
+        "precio": 2990,
+        "imagen": "./img/productos/product.svg",
+        "destacado": true,
+        "categoria": "Velas Aromaticas"
+    },
+    {
+        "id": "2",
+        "nombre": "Difusor Aromatico - PARIS",
+        "precio": 1990,
+        "imagen": "./img/productos/product-2.svg",
+        "destacado": true,
+        "categoria": "Difusores Aromaticos"
+    },
+    {
+        "id": "3",
+        "nombre": "Vela Aromatica - DREAMS",
+        "precio": 1090,
+        "imagen": "./img/productos/product-3.svg",
+        "destacado": true,
+        "categoria": "Velas Aromaticas"
+    },
+    {
+        "id": "4",
+        "nombre": "Vela Aromatica - SKY",
+        "precio": 3090,
+        "imagen": "./img/productos/product-4.svg",
+        "destacado": true,
+        "categoria": "Velas Aromaticas"
+    },
+    {
+        "id": "5",
+        "nombre": "Difusor Aromatico - CALM",
+        "precio": 1990,
+        "imagen": "./img/productos/product-5.svg",
+        "categoria": "Difusores Aromaticos"
+    },
+    {
+        "id": "6",
+        "nombre": "Difusor Aromatico - COOKIE",
+        "precio": 1090,
+        "imagen": "https://images.pexels.com/photos/6862113/pexels-photo-6862113.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "categoria": "Difusores Aromaticos"
+    },
+    {
+        "id": "7",
+        "nombre": "Difusor Aromatico - SNOW",
+        "precio": 1090,
+        "imagen": "./img/productos/product-6.svg",
+        "categoria": "Difusores Aromaticos"
+    },
+    {
+        "id": "8",
+        "nombre": "Vela Aromatica - PEACE",
+        "precio": 1090,
+        "imagen": "https://images.pexels.com/photos/4099355/pexels-photo-4099355.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "categoria": "Velas Aromaticas"
+    },
+    {
+        "id": "9",
+        "nombre": "Vela Aromatica - RAINBOW",
+        "precio": 1090,
+        "imagen": "https://images.pexels.com/photos/2705634/pexels-photo-2705634.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "categoria": "Velas Aromaticas"
+    },
+    {
+        "id": "10",
+        "nombre": "Difusor Aromatico - WHITE",
+        "precio": 1090,
+        "imagen": "https://images.pexels.com/photos/6724347/pexels-photo-6724347.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "categoria": "Difusores Aromaticos"
+    },
+    {
+        "id": "11",
+        "nombre": "Difusor Aromatico - ROCKS",
+        "precio": 1090,
+        "imagen": "https://images.pexels.com/photos/14766418/pexels-photo-14766418.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "categoria": "Difusores Aromaticos"
+    },
+    {
+        "id": "12",
+        "nombre": "Vela Aromatica - CARB",
+        "precio": 1090,
+        "imagen": "https://images.pexels.com/photos/4992806/pexels-photo-4992806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "categoria": "Velas Aromaticas"
+    }
+]
